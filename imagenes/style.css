@@ -1,0 +1,18 @@
+.header{
+background: linear-gradient(rgba(5,7,12,0.60),rgba(5,7,12,0.60)), url("imagenes/hawaii.jpg");
+height: 900px;
+background-position: center;
+background-size: cover; 
+
+}
+
+.img{
+    height: 70px;
+    width: 250px;
+}
+ 
+/*  *
+*{ background: #000 !important;
+    color:#0f0 !important;
+    outline: solid#f00 1px !important;
+}
